@@ -1,0 +1,9 @@
+
+#include<stdio.h>
+int main()
+{
+printf("Mohit Satpute \n");
+printf("computer science \n");
+printf("C \n");
+printf("50 \n");
+}
